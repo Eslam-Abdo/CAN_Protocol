@@ -1,4 +1,4 @@
-# STM32f103c8 CAN Driver
+# CAN Driver for STM32f103c8
 This repository contains a CAN driver implementation for the STM32f103c8 microcontroller. The driver provides a low-level interface for transmitting and receiving CAN messages using the MCP2551 CAN transceiver IC.
 
 ## Getting Started
